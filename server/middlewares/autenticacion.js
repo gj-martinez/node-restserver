@@ -28,7 +28,7 @@ let verificaToken = (req, res,next) =>{
 
 };
 //=================================
-//      VERIFICAR TOKEN
+//      VERIFICAR ROLE
 //=================================
 
 let verificaAdmin_Role = (req,res,next) => {
